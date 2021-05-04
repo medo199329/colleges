@@ -1,0 +1,44 @@
+html{
+  background-image: url("https://cdn.pixabay.com/photo/2020/02/06/20/01/university-library-4825366_960_720.jpg")
+}
+
+p{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+nav{
+  text-align: center;
+  background-position: center;
+  }
+  
+  div img{
+    height: 150px;
+    width: 150px
+
+  }
+
+  div{
+   display: inline-flex;
+    align-self: center;
+  }
+
+  header{
+    text-align: center;
+    height: 40px;
+    color: white;
+    border: solid 1px;
+    padding-block-end: 10px
+  }
+  
+p.campus{
+text-align: center;
+color: antiquewhite;
+
+text-emphasis: none;
+
+  text-overflow: ellipsis;
+  }
+
+  p.our{
+color: blueviolet;
+  }
