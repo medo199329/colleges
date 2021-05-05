@@ -22,6 +22,7 @@ nav{
     align-self: center;
   }
 
+<<<<<<< HEAD
   .dropbtn {
   background-color:bisque ;
   color:aquamarine;
@@ -62,6 +63,8 @@ nav{
 .dropdown:hover .dropbtn 
 {background-color: #3e8e41;}
 
+=======
+>>>>>>> f3f8c1ab375560282226cdf0502eaf37429cfb62
   header{
     text-align: center;
     height: 40px;
@@ -81,9 +84,12 @@ text-emphasis: none;
 
   p.our{
 color: blueviolet;
+<<<<<<< HEAD
   }
 
   footer{
     color: white;
     font-size: 20px;
+=======
+>>>>>>> f3f8c1ab375560282226cdf0502eaf37429cfb62
   }
